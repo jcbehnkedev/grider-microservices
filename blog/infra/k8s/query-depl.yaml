@@ -13,7 +13,7 @@ spec:
         app: query
     spec:
       containers:
-        - name: events
+        - name: query
           image: jcbehnkedev/query
 ---
 apiVersion: v1

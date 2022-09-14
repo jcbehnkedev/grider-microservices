@@ -13,7 +13,7 @@ spec:
         app: comments
     spec:
       containers:
-        - name: events
+        - name: comments
           image: jcbehnkedev/comments
 ---
 apiVersion: v1

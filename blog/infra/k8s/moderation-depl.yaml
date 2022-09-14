@@ -13,7 +13,7 @@ spec:
         app: moderation
     spec:
       containers:
-        - name: events
+        - name: moderation
           image: jcbehnkedev/moderation
 ---
 apiVersion: v1
